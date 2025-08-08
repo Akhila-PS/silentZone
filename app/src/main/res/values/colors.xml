@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <!-- Dark Navy Blue Theme -->
+    <color name="dark_navy">#FF0A0A1A</color>
+    <color name="dark_navy_light">#FF1A1A2E</color>
+    <color name="dark_navy_darker">#FF050510</color>
+    
+    <!-- Primary Colors -->
+    <color name="primary">#FFFFFFFF</color>
+    <color name="primary_dark">#FFE0E0E0</color>
+    <color name="primary_light">#FFFFFFFF</color>
+    
+    <!-- Secondary Colors -->
+    <color name="secondary">#FF4A90E2</color>
+    <color name="secondary_dark">#FF357ABD</color>
+    <color name="secondary_light">#FF6BA3E8</color>
+    
+    <!-- Accent Colors -->
+    <color name="accent">#FF00D4AA</color>
+    <color name="accent_dark">#FF00B894</color>
+    <color name="accent_light">#FF33DDB8</color>
+    
+    <!-- Info Colors -->
+    <color name="info">#FF4A90E2</color>
+    <color name="info_dark">#FF357ABD</color>
+    <color name="info_light">#FF6BA3E8</color>
+    
+    <!-- Success Colors -->
+    <color name="success">#FF00D4AA</color>
+    <color name="success_dark">#FF00B894</color>
+    <color name="success_light">#FF33DDB8</color>
+    
+    <!-- Warning Colors -->
+    <color name="warning">#FFFF6B6B</color>
+    <color name="warning_dark">#FFE53E3E</color>
+    <color name="warning_light">#FFFF8A80</color>
+    
+    <!-- Error Colors -->
+    <color name="error">#FFFF6B6B</color>
+    <color name="error_dark">#FFE53E3E</color>
+    <color name="error_light">#FFFF8A80</color>
+    
+    <!-- Neutral Colors -->
+    <color name="surface">#FF1A1A2E</color>
+    <color name="surface_dark">#FF0A0A1A</color>
+    <color name="background">#FF0A0A1A</color>
+    <color name="background_dark">#FF050510</color>
+    
+    <!-- Text Colors -->
+    <color name="on_primary">#FF0A0A1A</color>
+    <color name="on_secondary">#FFFFFFFF</color>
+    <color name="on_surface">#FFFFFFFF</color>
+    <color name="on_surface_dark">#FFFFFFFF</color>
+    <color name="on_background">#FFFFFFFF</color>
+    <color name="on_background_dark">#FFFFFFFF</color>
+    
+    <!-- Transparent Colors -->
+    <color name="white_10">#1AFFFFFF</color>
+    <color name="white_20">#33FFFFFF</color>
+    <color name="white_30">#4DFFFFFF</color>
+    <color name="white_50">#80FFFFFF</color>
+    <color name="white_70">#B3FFFFFF</color>
+    <color name="black_10">#1A000000</color>
+    <color name="black_20">#33000000</color>
+    <color name="black_50">#80000000</color>
+    
+    <!-- Gradient Colors -->
+    <color name="gradient_start">#FF0A0A1A</color>
+    <color name="gradient_center">#FF1A1A2E</color>
+    <color name="gradient_end">#FF2A2A4E</color>
+    
+    <!-- Legacy Colors (for backward compatibility) -->
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+</resources>
