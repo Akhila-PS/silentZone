@@ -58,15 +58,17 @@ For Software:
 
 Screenshots (Add at least 3)
 ![WhatsApp Image 2025-08-09 at 3 19 21 AM](https://github.com/user-attachments/assets/91cb666c-127e-4cfd-8f5a-551d39ca9cb0)
-![WhatsApp Image 2025-08-09 at 4 04 30 AM (4)](https://github.com/user-attachments/assets/5bbfa08d-fe6a-4d90-be94-f23912c21d55)
-![WhatsApp Image 2025-08-09 at 4 04 30 AM (4)](https://github.com/user-attachments/assets/d96b4d49-a4f7-4953-90ea-d9f5b442a7b9)
+![WhatsApp Image 2025-08-09 at 4 04 30 AM (5)](https://github.com/user-attachments/assets/b5fe9e6b-2a01-41b5-a276-81f873904a93)
+
+![WhatsApp Image 2025-08-09 at 4 04 30 AM (6)](https://github.com/user-attachments/assets/160c331d-9813-4f73-a4c3-9bf8541b74dd)
 
 Diagrams
-![WhatsApp Image 2025-08-09 at 4 04 30 AM (6)](https://github.com/user-attachments/assets/160c331d-9813-4f73-a4c3-9bf8541b74dd)
+![dia](https://github.com/user-attachments/assets/8081c560-56be-4327-a1d2-039c459412ce)
+
 
 
 Build Photos
-![<img width="1920" height="1020" alt="Screenshot 2025-08-09 064157" src="https://github.com/user-attachments/assets/febb8bd5-b9a7-4e97-ac8a-0d1602ab1d4d" />
+<img width="1920" height="1020" alt="Screenshot 2025-08-09 064157" src="https://github.com/user-attachments/assets/febb8bd5-b9a7-4e97-ac8a-0d1602ab1d4d" />
 ]()
 
 Project Demo
