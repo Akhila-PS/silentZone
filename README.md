@@ -1,128 +1,83 @@
-# SilentZone
+<img width="1280" height="482" alt="image" src="https://github.com/user-attachments/assets/bd7bf4a5-c01c-41f4-88e3-7d974999502d" />
 
-## Basic Details
 
-**Team Name:** Team Lag  
+[SilentZone] 🎯
+Basic Details
+Team Name: [TeamLag]
+Team Members
+Team Lead: [Akhila P S] - [NSS College Of Engineering, Palakkad]
+Member 2: [Adhithyan P S] - [NSS College Of Engineering, Palakkad]
 
-**Team Members:**
-- **Team Lead:** Akhila P.S – NSS College of Engineering, Palakkad  
-- **Member 2:** Adhithyan P.S – NSS College of Engineering, Palakkad  
+Project Description
+[Fridge Whisperer Ammachi is an interactive web app that analyzes your fridge contents through image upload and suggests personalized recipes. Using AI-powered ingredient detection with YOLOv8 on the backend, it offers fun, mood-based dialogues from Ammachi, the virtual grandma. The frontend features a charming UI and dynamic speech bubbles that respond to user moods. This project combines computer vision, natural language, and playful UX to make cooking inspiration delightful and accessible.]
 
----
-
-## Project Description
-
-Silent Zone is a mobile application that automatically switches your phone to **Do Not Disturb (DND)** mode when you enter a predefined location.  
-You can set this location either as your **current GPS position** or by selecting a **point on an interactive map**.  
-
-Once activated, the app quietly monitors your location and silences all notifications when you enter the silent zone, restoring normal mode when you leave.
-
----
-
-## Features
-
-- Real-time distance calculation and display  
-- Inside/outside zone status with distance (e.g., *"INSIDE silent zone (45.2m away)"*)  
-- Clear/delete zone functionality  
-- Location naming system (*"Current Location"*, *"Map Selected Location"*)  
-- 100-meter radius detection zone  
-
-Perfect for:
-- Meetings  
-- Classes  
-- Libraries  
-- Any environment where you need peace — without lifting a finger  
-
----
-
-## The Problem (that doesn't exist)
-
-- People forget to press the Do Not Disturb button exactly at the right GPS coordinate.  
+The Problem (that doesn't exist)
+[- People forget to press the Do Not Disturb button exactly at the right GPS coordinate.  
 - The world is too noisy, and our thumbs are too tired to tap one icon.  
 - That split-second delay between entering a meeting and silencing the phone is ruining productivity worldwide.  
 - Manual silencing has become an outdated, prehistoric ritual in the smartphone era.  
-- We need a dramatic, overengineered solution for the simple act of pressing one button.  
+- We need a dramatic, overengineered solution for the simple act of pressing one button.]
 
----
-
-## The Solution (that nobody asked for)
-
-- A hyper-intelligent app that tracks your GPS location like a clingy ex.  
+The Solution (that nobody asked for)
+[- A hyper-intelligent app that tracks your GPS location like a clingy ex.  
 - Automatically slams your phone into Do Not Disturb mode the moment you step into your “silent zone.”  
 - Lifts the silence the instant you escape — because freedom matters.  
 - Eliminates the need for that exhausting, finger-cramping tap on the DND button.  
-- Turns a 2-second manual task into a cutting-edge location-based automation masterpiece.  
+- Turns a 2-second manual task into a cutting-edge location-based automation masterpiece.]
 
----
+Technical Details
+Technologies/Components Used
+For Software:
 
-## Technical Details
+[Java]
+[Android Studio]
+[osmdroid
+Google Play Services
+AndroidX
+Room Database]
+[Android Studio
+Gradle]
 
-### Technologies & Components Used
+Implementation
+For Software:
 
-**Software:**
-- **Language:** Java  
-- **IDE:** Android Studio  
-- **Build Tool:** Gradle  
-- **Map Integration:** osmdroid (OpenStreetMap)  
-- **Database:** Room Database (for storing silent zones)  
-- **Location Services:** FusedLocationProviderClient (Google Play Services)  
-- **Background Service:** LocationService (continuous monitoring)  
-- **Permissions:**  
-  - `ACCESS_FINE_LOCATION`  
-  - `ACCESS_BACKGROUND_LOCATION`  
-  - DND access  
-- **Other Libraries:** AndroidX  
-
----
-
-## Implementation
-
-### Software Installation
-
-
-### 1. Clone the repository
+Installation
+[ 1. Clone the repository
 git clone https://github.com/Akhila-PS/silentZone.git
+2. Open the project in Android Studio
+3. Let Gradle sync automatically
+4. Connect an Android device or start an emulator
+5. Run the app bash
+]
 
-### 2. Open the project in Android Studio
+Run
+[commands]
 
-### 3. Let Gradle sync automatically
+Project Documentation
+For Software:
 
-### 4. Connect an Android device or start an emulator
+Screenshots (Add at least 3)
+![WhatsApp Image 2025-08-09 at 3 19 21 AM](https://github.com/user-attachments/assets/91cb666c-127e-4cfd-8f5a-551d39ca9cb0)
+![WhatsApp Image 2025-08-09 at 4 04 30 AM (4)](https://github.com/user-attachments/assets/5bbfa08d-fe6a-4d90-be94-f23912c21d55)
+![WhatsApp Image 2025-08-09 at 4 04 30 AM (4)](https://github.com/user-attachments/assets/d96b4d49-a4f7-4953-90ea-d9f5b442a7b9)
 
-### 5. Run the app bash
-
-
-
-
-
-## Project Documentation
-
-**Project demo**
-
-[Google Drive Link](https://drive.google.com/drive/folders/1Pb1kwHq4_cqYQDdumO7z_FKRaiMG3Wda)
-
-**Screenshots**
-![WhatsApp Image 2025-08-09 at 5 56 24 AM](https://github.com/user-attachments/assets/f19f917a-6218-485e-b13b-bf8ce3c518f3)
-![WhatsApp Image 2025-08-09 at 4 04 30 AM (3)](https://github.com/user-attachments/assets/b2a88744-2d7a-4036-89bd-0cd925da1335)
+Diagrams
+![WhatsApp Image 2025-08-09 at 4 04 30 AM (6)](https://github.com/user-attachments/assets/160c331d-9813-4f73-a4c3-9bf8541b74dd)
 
 
-**Live demo**
-https://drive.google.com/drive/folders/1VYxfVpezO9zyfjMOx3smSzy4Q4VFc42h?usp=drive_link
+Build Photos
+![<img width="1920" height="1020" alt="Screenshot 2025-08-09 064157" src="https://github.com/user-attachments/assets/febb8bd5-b9a7-4e97-ac8a-0d1602ab1d4d" />
+]()
 
-### Diagrams
-
-**Workflows:**
-
-![WhatsApp Image 2025-08-09 at 5 56 24 AM](https://github.com/user-attachments/assets/bf6a6ad5-86ef-4619-8efd-04e25ab1ddfe)
-
-**Build Photots**
+Project Demo
+Video
+[(https://drive.google.com/drive/folders/1Pb1kwHq4_cqYQDdumO7z_FKRaiMG3Wda)] 
 
 
-<img width="1920" height="1020" alt="Screenshot 2025-08-09 064157" src="https://github.com/user-attachments/assets/157786dc-e697-46b5-bb4f-cd5dd070b2ef" />
+Team Contributions
+[Akhila P S]: [Backend]
+[Adhithyan P S]: [UI design]
 
----
+Made with ❤️ at TinkerHub Useless Projects
 
-## Team Contributions
-- **Akila P S:** Backend  
-- **AdHithyan P S:** User Interface  
-
+Static Badge Static Badge
