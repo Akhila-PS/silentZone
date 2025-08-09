@@ -1,4 +1,4 @@
-<img width="1920" height="1020" alt="Screenshot 2025-08-09 064157" src="https://github.com/user-attachments/assets/a9e555f3-4cdf-41e1-b9d9-8a1a67fa0af6" /># SilentZone
+# SilentZone
 
 ## Basic Details
 
