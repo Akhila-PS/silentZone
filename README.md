@@ -73,7 +73,8 @@ Build Photos
 
 Project Demo
 Video
-[(https://drive.google.com/drive/folders/1Pb1kwHq4_cqYQDdumO7z_FKRaiMG3Wda)] 
+[(https://drive.google.com/drive/folders/1Pb1kwHq4_cqYQDdumO7z_FKRaiMG3Wda)]
+[Initially, the SilentZone is set to the current location, and Do Not Disturb mode is turned on automatically. When a call comes, the ringing sound is not heard. Then, the current location setting is deleted, and the location is set to Dubai in the attached OpenStreetMap. Do Not Disturb mode is automatically turned off, and now, when a call comes, the ringing sound can be heard.]
 
 
 Team Contributions
